@@ -1,0 +1,55 @@
+      Test cases for Least recently used Page replacement Algorithm
+
+
+1.  
+      Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 3
+
+2.    Reference string = 1 1 0 2 3
+      Frame no = 3
+
+3.    Reference string = 1 1 1 1 1 0 1
+      Frame no = 3
+
+4.    Reference string = 1 1 0 2 3
+      Frame no = 4
+
+5.    Reference string = 1 1 0 2 3
+      Frame no = 5
+
+6.    Reference string = 1 1 1 1 1 0 1
+      Frame no = 4
+
+7.    Reference string = 1 1 1 1 1 0 1
+      Frame no = 5
+
+8.    Reference string = 1 1 1 1 1 0 1
+      Frame no = 6
+
+9.    Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 4
+
+10.   Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 5
+
+11.   Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 6
+
+12.   Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 7
+
+13.   Reference string =  7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frame no = 8
+
+14.   Reference = 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+      Frames = 3
+
+15.   Reference = 1 1 0 2 3	
+      Frames = 3
+
+16.   Reference = 1 1 0 1 1 2
+      Frames = 3
+
+17.   Reference = 1 0 0 0 1 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0
+      Frames = 3
+
